@@ -3,7 +3,7 @@ Measuring Commons Growth
 
 An inquiry into possibilities for measuring the growth of the commons in their widest definitions.
 
-In the context of [sustainability from a commons perspective](http://commonsabundance.net/2013/07/13/rethinking-sustainable-development-in-terms-of-commons/), I have been wondering how Value Network Analysis could been used to measure variation in externality flow and depletion / replenishment of the commons.
+In the context of [sustainability from a commons perspective](http://commonsabundance.net/2013/07/13/rethinking-sustainable-development-in-terms-of-commons/), I have been wondering how Value Network Analysis could be used to measure variation in externality flow and depletion / replenishment of the commons.
 
 I have in mind the following: 
 

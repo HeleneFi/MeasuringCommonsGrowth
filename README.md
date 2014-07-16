@@ -10,11 +10,11 @@ I have in mind the following:
 Taking a broad definition of the commons, considering them as the factors of enablement, the distributed factors of opportunity and thrivability, the 'field' to graze from that makes individual or community activity possible (in terms of what is available and accessible), which needs to be perpetually renewed and sustained. Looking at how to monitor the flows of 'externality' and to identify where and how commons value is created or depleted.
 
 So if the commons (in their economic, social and natural form, for example in the form of knowledge, resources, health and diversity of possibilities etc...) provide an input as positive externality to an entity, I would like to be able to measure:
-**How much/how/into what is this input transformed by human systems, organizations?
-**What value (tangible or intangible) is added to (or substracted from) the commons input through the activity?
-**From the value added to the input commons, how much is 'released' as a surplus or externality output (hopefully 'positive'), how much is a contribution of the activity to the whole, that nourrishes the field of emergence or factors of enablement (the commons) that will serve as input to other entities, in similar or other place and time?
-**How much is 'retained' to forward the business, nd how much is enclosed or captured by the activity for the sole benefit of its owners?
-**How much toxic by-products (negative externality output) are rejected to deplete the field of emergence, conditions, factors of enablement (the commons) and at what cost to the whole, now and in the future? 
+-How much/how/into what is this input transformed by human systems, organizations?
+-What value (tangible or intangible) is added to (or substracted from) the commons input through the activity?
+-From the value added to the input commons, how much is 'released' as a surplus or externality output (hopefully 'positive'), how much is a contribution of the activity to the whole, that nourrishes the field of emergence or factors of enablement (the commons) that will serve as input to other entities, in similar or other place and time?
+-How much is 'retained' to forward the business, nd how much is enclosed or captured by the activity for the sole benefit of its owners?
+-How much toxic by-products (negative externality output) are rejected to deplete the field of emergence, conditions, factors of enablement (the commons) and at what cost to the whole, now and in the future? 
 
 This would be a good way to measure sustainability and the variation in prosperity...
 
